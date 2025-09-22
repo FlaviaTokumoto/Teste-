@@ -24,5 +24,14 @@ p{
 
 section{
     background-color: rgb(66, 44, 126);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display:flex;
+    justify-content: center;
+
+}
+
+.chamada-texto{
+    margin-right: 10%;
 }
 
